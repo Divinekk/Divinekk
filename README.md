@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:D1C4E9,100:7B1FA2&height=180&section=header&text=Hey%20everyone%20👋&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:D1C4E9,100:7B1FA2&height=180&section=header&text=Hey%20everyone%20👋&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=50))
 ## ✨  I'm Ogbonna Divine
 I'm a computer science and Engineering graduate from University of Debrecen, Hungary interested in building reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
 
