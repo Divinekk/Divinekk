@@ -1,12 +1,13 @@
 
 ## Hi 👋 I'm Ogbonna Divine 
 ## ✨ About Me:
-I'm a Computer Science Engineering graduate from University of Debrecen, Hungary interested in building reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
+I'm a Computer Science Engineering Graduate from University of Debrecen, Hungary interested in building reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
 ## 🚀 What I'm up to:
-.💻 Building security-focused backend API project with Java and Spring Boot.
-. Improving code structure, testing, and documentation. 
+* 💻 Building security-focused backend API project with Java and Spring Boot.
+* Improving code structure, testing, and documentation. 
 ## 🌐 Connect with me:
-. Portfolio - Coming Soon
+* [Linkedn](http://linkedin.com/in/ogbonna-divine-a81453242)
+* [Portfolio] - Coming Soon
 ## 💻 Tech Stack:
 
 
