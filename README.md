@@ -1,6 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:D1C4E9,100:7B1FA2&height=180&section=header&text=Hi%20everyone%20👋&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=50)
-## ✨I'm Ogbonna Divine
+
+## Hi 👋 I'm Ogbonna Divine 
+## ✨ About Me:
 I'm a Computer Science Engineering graduate from University of Debrecen, Hungary interested in building reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
+## 🚀 What I'm up to:
+.💻 Building security-focused backend API project with Java and Spring Boot.
+. Improving code structure, testing, and documentation. 
+## 🌐 Connect with me:
+. Portfolio - Coming Soon
+## 💻 Tech Stack:
 
 
 <!--
