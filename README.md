@@ -6,7 +6,7 @@ I'm a Computer Science Engineering Graduate from University of Debrecen, Hungary
 * 💻 Building security-focused backend API project with Java and Spring Boot.
 * Improving code structure, testing, and documentation. 
 ## 🌐 Connect with me:
-* ![Linkedn](http://linkedin.com/in/ogbonna-divine-a81453242)
+* [![LinkedIn ](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff)](#)(http://linkedin.com/in/ogbonna-divine-a81453242)
 * [Portfolio] - Coming Soon
 
 ## 🛠️ Tech Stack
