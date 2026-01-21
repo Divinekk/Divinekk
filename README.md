@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:D0B0FF,100:8A2BE2&height=200&section=header&text=kyechan99&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Purple%20Power%20Developer&descSize=18&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E1BEE7,100:7B1FA2&height=200&section=header&text=Hey%20everyone%20...%20👋&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40)
 About me: 
 I
 <!--
