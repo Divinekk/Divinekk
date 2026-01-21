@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:2D0039,100:7B1FA2&height=200&section=header&text=Hey%20everyone%20...%20💜&fontSize=68&fontColor=E1BEE7&animation=twinkling&fontAlignY=40&desc=Developer%20|%20Night%20Coder%20🌃&descSize=18&descAlignY=72&stroke=4A148C&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2D0039,100:7B1FA2&height=200&section=header&text=Hey%20everyone%20oooo!&fontSize=70&fontColor=E1BEE7&animation=twinkling&fontAlignY=50&stroke=4A148C&strokeWidth=2)
 ## ✨  I'm Ogbonna Divine
 I'm a computer science and Engineering graduate from University of Debrecen, Hungary interested in building reliable software systems and understanding how things work under the hod. I enjoy learning by building, breaking things, and improving through iteration.
 I enjoy e
