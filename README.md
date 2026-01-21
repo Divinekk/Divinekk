@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E1BEE7,100:7B1FA2&height=200&section=header&text=Hey%20everyone%20...%20👋&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=speech&color=D1C4E9&height=160&section=header&text=Hey%20everyone!%20🌸&fontSize=55&fontColor=4A148C&fontAlignY=40&animation=blink)
 About me: 
 I
 <!--
