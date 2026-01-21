@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:F3E5F5,100:CE93D8&height=200&section=header&text=Hey%20everyone%20...%20👋&fontSize=65&fontColor=7B1FA2&animation=twinkling&fontAlignY=40&desc=Girl%20Who%20Codes%20💜&descSize=20&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:D1C4E9,100:7B1FA2&height=180&section=header&text=Hey%20everyone%20👋&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=50)
 ## ✨  I'm Ogbonna Divine
-I'm a computer science and Engineering graduate from University of Debrecen, Hungary interested in building reliable software systems and understanding how things work under the hod. I enjoy learning by building, breaking things, and improving through iteration.
-I enjoy e
+I'm a computer science and Engineering graduate from University of Debrecen, Hungary interested in building reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
 
-I
+
 <!--
 **Divinekk/Divinekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
