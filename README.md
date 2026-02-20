@@ -1,48 +1,52 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=7b2cbf&height=250&section=header&text=Ogbonna%20Divine&fontSize=70&animation=fadeIn&fontAlignY=40" />
+</p>
 
 ## Hi 👋 I'm Ogbonna Divine 
-## ✨ About Me:
-I'm a Security-Focused Backend Engineer interested in building reliable secure and reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
-## 🚀 What I'm up to:
-* 💻 Building security-focused backend API project with Java and Spring Boot.
-* Improving code structure, testing, and documentation.
-* Check out my [!Portfolio](https://divine-ogbonna.vercel.app/)
-## 🌐 Connect with me:
-* [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ogbonna-divine-a81453242)
-  
+
+### ✨ About Me
+[cite_start]I'm a **Security-Focused Backend Engineer** interested in building reliable, secure, and resilient software systems[cite: 26, 28]. I enjoy learning by building, breaking things, and improving through iteration.
+
+### 🚀 What I'm up to:
+* [cite_start]💻 Building security-focused backend API projects with **Java** and **Spring Boot**[cite: 7, 26].
+* [cite_start]Improving code structure, testing, and documentation[cite: 14].
+* Check out my [Portfolio](https://divine-ogbonna.vercel.app/)
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=7b2cbf)](https://linkedin.com/in/ogbonna-divine-a81453242)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9d4edd)](mailto:divinechizzy48@gmail.com)
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Languages</b></td>
+    <td align="center" width="50%"><b>Backend & Security</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Java-7b2cbf?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-9d4edd?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-5a189a?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-3c096c?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-7b2cbf?style=flat-square&logo=javascript&logoColor=white" /> </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-7b2cbf?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-9d4edd?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" /> <img src="https://img.shields.io/badge/AES-5a189a?style=flat-square&logo=lock&logoColor=white" /> <img src="https://img.shields.io/badge/BCrypt-3c096c?style=flat-square" /> </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><b>DevOps & Database</b></td>
+    <td align="center" width="50%"><b>Tools & Testing</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-9d4edd?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> </td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" /> </td>
+  </tr>
+</table>
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+---
 
-### Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![BCrypt](https://img.shields.io/badge/BCrypt-003A70?style=for-the-badge)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-<!--
-**Divinekk/Divinekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divinekk&show_icons=true&theme=vision-friendly-dark&font_color=9d4edd&icon_color=7b2cbf&title_color=7b2cbf&hide_border=true" alt="Divine's Stats" />
+</p>
