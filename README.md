@@ -1,6 +1,6 @@
 # **Hi 👋 I'm Ogbonna Divine**
 
-### **Security-Focused Backend Engineer **
+### Security-Focused Backend Engineer 
 
 I specialize in:
 * ☕ **Java & Spring Boot** for building robust, secure RESTful APIs
@@ -12,7 +12,7 @@ I specialize in:
 ---
 
 ## **✨ About Me**
-I'm a **Security-Focused Backend Engineer** interested in building secure and reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
+I'm a Computer Engineering graduate of Univeristy of Debrecen, Hungary interested in building secure and reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
 
 ---
 
