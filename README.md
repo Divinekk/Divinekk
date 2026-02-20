@@ -4,15 +4,15 @@
 
 ## Hi 👋 I'm Ogbonna Divine 
 
-### ✨ About Me
-[cite_start]I'm a **Security-Focused Backend Engineer** interested in building reliable, secure, and resilient software systems[cite: 26, 28]. I enjoy learning by building, breaking things, and improving through iteration.
+## ✨ About Me
+I'm a **Security-Focused Backend Engineer** interested in building reliable, secure, and resilient software systems[cite: 26, 28]. I enjoy learning by building, breaking things, and improving through iteration.
 
-### 🚀 What I'm up to:
-* [cite_start]💻 Building security-focused backend API projects with **Java** and **Spring Boot**[cite: 7, 26].
-* [cite_start]Improving code structure, testing, and documentation[cite: 14].
+## 🚀 What I'm up to:
+* 💻 Building security-focused backend API projects with **Java** and **Spring Boot**[cite: 7, 26].
+* Improving code structure, testing, and documentation[cite: 14].
 * Check out my [Portfolio](https://divine-ogbonna.vercel.app/)
 
-### 🌐 Connect with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=7b2cbf)](https://linkedin.com/in/ogbonna-divine-a81453242)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9d4edd)](mailto:divinechizzy48@gmail.com)
 
@@ -47,6 +47,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divinekk&show_icons=true&theme=vision-friendly-dark&font_color=9d4edd&icon_color=7b2cbf&title_color=7b2cbf&hide_border=true" alt="Divine's Stats" />
-</p>
