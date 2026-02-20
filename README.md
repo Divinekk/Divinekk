@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7b2cbf&height=250&section=header&text=Ogbonna%20Divine&fontSize=70&animation=fadeIn&fontAlignY=40" />
-</p>
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="35"> Hi there, I'm Ogbonna Divine 
+
+### Hi there, I'm Ogbonna Divine 
 
 ### 🛡️ Security-Focused Backend Engineer 
 
@@ -15,25 +13,25 @@ I specialize in:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> ✨ About Me:
+## ✨ About Me:
 I'm a **Security-Focused Backend Engineer** interested in building secure and reliable software systems. I enjoy learning by building, breaking things, and improving through iteration. 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> 🚀 What I'm up to:
+## 🚀 What I'm up to:
 * 💻 **Building security-focused backend API projects** with **Java** and **Spring Boot**. 
 * 🛠️ **Improving code structure**, testing, and documentation. 
 * 🌍 **Check out my [Portfolio](https://divine-ogbonna.vercel.app/)**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="30"> 🌐 Connect with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=7b2cbf)](https://linkedin.com/in/ogbonna-divine-a81453242)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9d4edd)](mailto:divinechizzy48@gmail.com)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -79,8 +77,7 @@ I'm a **Security-Focused Backend Engineer** interested in building secure and re
 
 ---
 
-### 💬 Security Mindset
-> "Security is not a product, but a process. Don't just build it to work; build it to withstand."
+###  "Security is not a product, but a process. Don't just build it to work; build it to withstand."
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=vision-friendly-dark&font_color=9d4edd&icon_color=7b2cbf&title_color=7b2cbf&hide_border=true" alt="Divine's Stats" />
