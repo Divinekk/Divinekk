@@ -1,7 +1,5 @@
 # **Hi 👋 I'm Ogbonna Divine**
 
-### Security-Focused Backend Engineer 
-
 I specialize in:
 * ☕ **Java & Spring Boot** for building robust, secure RESTful APIs
 * 🛡️ **Spring Security** for authentication, authorization, and OWASP compliance
@@ -75,8 +73,6 @@ I'm a Computer Engineering graduate of Univeristy of Debrecen, Hungary intereste
 
 ---
 
-### **"Security is a process, not a product. Build it to withstand, not just to work."** — *Bruce Schneier*
+> *"Security is a process, not a product. Build it to withstand, not just to work."* — **Bruce Schneier**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divinekk&show_icons=true&theme=vision-friendly-dark&font_color=9d4edd&icon_color=7b2cbf&title_color=7b2cbf&hide_border=true" alt="Divine's Stats" />
-</p>
+
