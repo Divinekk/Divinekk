@@ -1,4 +1,4 @@
-# **Hi 👋 I'm Ogbonna Divine**
+# **Hi 👋 I'm Ogbonna C. Divine**
 
 I specialize in:
 * ☕ **Java & Spring Boot** for building robust, secure RESTful APIs
