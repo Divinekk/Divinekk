@@ -17,7 +17,7 @@ I'm a Computer Engineering graduate of Univeristy of Debrecen, Hungary intereste
 ## **🚀 What I'm up to**
 * 💻 **Building security-focused backend API projects** with **Java** and **Spring Boot**.
 * 🛠️ **Improving code structure**, testing, and documentation.
-* 🌍 **Check out my [Portfolio](https://divine-ogbonna.vercel.app/)**
+* 🌍 **Check out my [Portfolio](https://divineogbonna.vercel.app/)**
 
 ---
 
