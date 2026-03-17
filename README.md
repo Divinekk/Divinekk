@@ -1,10 +1,10 @@
 # **Hi 👋 I'm Ogbonna C. Divine**
 I specialize in:
-* ☕ **Java & Spring Boot** for building robust, secure RESTful APIs
-* 🛡️ **Spring Security** for authentication, authorization, and OWASP compliance
-* 🗄️ **SQL & Database Optimization** with a focus on data integrity
 * 🔐 **Application Security** — cryptanalysis, OWASP Top 10, AES-256-GCM encryption, BOLA prevention
 * 📊 **Threat Detection** — SIEM log analysis, custom detection rules, incident triage reporting
+*  ☕ **Java & Spring Boot** for building robust, secure RESTful APIs
+* 🛡️ **Spring Security** for authentication, authorization, and OWASP compliance
+* 🗄️ **SQL & Database Optimization** with a focus on data integrity
 
 **I'm open to exciting opportunities in building reliable and secure software systems!** 📢
 
@@ -18,12 +18,10 @@ My undergraduate thesis researched cryptographic vulnerabilities in Nigerian ban
 ---
 
 ## **🚀 What I'm up to**
-* 💻 **Building security-focused backend API projects** with **Java** and **Spring Boot**
 * 🛡️ **Building SentinelAPI** — a Spring Boot tool that detects OWASP API attack patterns (brute force, BOLA, SQL injection) in real time and generates structured incident reports
 * 🔍 **ThreatLens** — hands-on SIEM exercise using Elastic Security: log analysis, custom detection rules, incident triage report
 * 🛠️ **Improving code structure**, testing, and documentation
 * 🌍 **Check out my [Portfolio](https://divineogbonna.vercel.app/)**
-* ✍️ **Writing about API Security in Nigerian Fintech** — [Read on Medium](https://medium.com/@divine.ogbonna.chisom)
 
 ---
 
