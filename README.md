@@ -11,7 +11,7 @@ I specialize in:
 ---
 
 ## **✨ About Me**
-I'm a Computer Engineering graduate of University of Debrecen, Hungary interested in building secure and reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
+I'm a Computer Science Engineering graduate of University of Debrecen, Hungary interested in building secure and reliable software systems. I enjoy learning by building, breaking things, and improving through iteration.
 
 My undergraduate thesis researched cryptographic vulnerabilities in Nigerian banking systems — JWT, AES, BCrypt, RSA256, TOTP — and was awarded **Best Presenter at the TDK Research Conference, Informatics Section I** (sponsored by EPAM, Morgan Stanley, Nokia).
 
