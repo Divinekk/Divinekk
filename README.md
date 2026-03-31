@@ -21,7 +21,7 @@ My undergraduate thesis researched cryptographic vulnerabilities in Nigerian ban
 * 🛡️ **Building SentinelAPI** — a Spring Boot tool that detects OWASP API attack patterns (brute force, BOLA, SQL injection) in real time and generates structured incident reports
 * 🔍 **ThreatLens** — hands-on SIEM exercise using Elastic Security: log analysis, custom detection rules, incident triage report
 * 🛠️ **Improving code structure**, testing, and documentation
-* 🌍 **Check out my [Portfolio](https://divineogbonna.vercel.app/)**
+  
 
 ---
 
