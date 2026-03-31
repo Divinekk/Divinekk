@@ -1,6 +1,6 @@
 # **Hi 👋 I'm Ogbonna C. Divine**
 I specialize in:
-* 🔐 **Application Security** — cryptanalysis, OWASP Top 10, AES-256-GCM encryption, BOLA prevention
+* 🔐 **API Security** —  OWASP Top 10, AES-256-GCM encryption, BOLA prevention
 * 📊 **Threat Detection** — SIEM log analysis, custom detection rules, incident triage reporting
 *  ☕ **Java & Spring Boot** for building robust, secure RESTful APIs
 * 🛡️ **Spring Security** for authentication, authorization, and OWASP compliance
